@@ -3,3 +3,6 @@ file1.txt
 1. git pull from master
 2. in master modify file
 3. checout branch --- how to do
+4. git add 
+5. git commit
+6. git push origin local_branch:remote_brach
