@@ -11,6 +11,6 @@ file1.txt
 
 my new add
 
-another add update, update2 angin, have debug mod, merge
+another add update, update2 angin, have debug mod, merge, update4
 
 my update, update2 angin
